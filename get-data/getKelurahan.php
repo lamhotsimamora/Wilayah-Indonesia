@@ -17,7 +17,7 @@ if (isset($_POST['kode']))
 	$getJumlahKelurahan = $wilayahIndonesia->getJumlahKelurahan();
 
 	$tmplate = '';
-	echo json_encode($getKelurahan);
+
 	for ($i=0; $i < $getJumlahKelurahan ; $i++) 
 	{ 
 		$detail_kelurahan = $getKelurahan[$i];
