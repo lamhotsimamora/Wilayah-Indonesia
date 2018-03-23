@@ -13,10 +13,6 @@ include 'db.php';
 */
 class wilayahIndonesia extends driverPDO
 {
-	private $provinsi;
-	private $kota;
-	private $desa;
-
 	private $kode;
 
 	public function setKode($kode)
