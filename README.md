@@ -9,8 +9,8 @@ git clone https://github.com/lamhotsimamora/Wilayah-Indonesia.git
 https://wilayah.lamhotsimamora.com
 
 ### ScreenShoot
-<img src="image/record-wilayah.gif" width="200" height="200">
-<img src="image/indonesia.jpg" width="200" height="200">
+<img src="image/record-wilayah.gif" width="700" height="700">
+<img src="image/indonesia.jpg" width="500" height="500">
 
 ### Vendor
 #### <a href="https://getbootstrap.com/">Bootstrap 4</a>
