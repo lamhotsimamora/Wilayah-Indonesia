@@ -73,28 +73,24 @@ class wilayahIndonesia extends driverPDO
 	public function getJumlahProvinsi()
 	{
 		$this->setQueryProvinsi();
-		$this->execute();
 		return $this->getCount();
 	}
 
 	public function getJumlahKotaKabupaten()
 	{
 		$this->setQueryKotaKabupaten();
-		$this->execute();
 		return $this->getCount();
 	}
 
 	public function getJumlahKecamatan()
 	{
 		$this->setQueryKecamatan();
-		$this->execute();
 		return $this->getCount();
 	}
 
 	public function getJumlahKelurahan()
 	{
 		$this->setQueryKelurahan();
-		$this->execute();
 		return $this->getCount();
 	}
 }
