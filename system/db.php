@@ -49,6 +49,7 @@ class driverPDO
   }
 
   protected function getCount(){
+      $this->execute();
       return $this->obj->rowCount();
   }
 
