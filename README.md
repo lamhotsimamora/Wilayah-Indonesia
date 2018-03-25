@@ -2,13 +2,10 @@
 Remake Wilayah Indonesia From https://github.com/cahyadsn/wilayah
 Special Thanks to  <a href="https://github.com/cahyadsn">@cahyadsn</a>
 
-### CLONE
-git clone https://github.com/lamhotsimamora/Wilayah-Indonesia.git
-
 ### Get Started
-Clone this repository to folder htdocs (xampp) 
+Clone this repository to your folder in "htdocs" (XAMPP) 
 ```
-	git clone https://github.com/lamhotsimamora/Wilayah-Indonesia.git
+git clone https://github.com/lamhotsimamora/Wilayah-Indonesia.git
 ```
 and then create database with name 'wilayah', 
 and then import database from file 'wilayah.sql',
